@@ -43,3 +43,5 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
+pages:
+- content/authors/R. Spencer Steenblik/r.spencer-steenblik.md

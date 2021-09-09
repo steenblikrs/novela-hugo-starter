@@ -31,6 +31,10 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: document
+  path: content/about.md
+  label: About
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

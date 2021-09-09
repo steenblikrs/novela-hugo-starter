@@ -1,5 +1,5 @@
 ---
-title: Thiago Costa
+title: R. Spencer Steenblik
 bio: 'Yes!
 
 '

@@ -4,6 +4,5 @@ bio: Hello! BIO
 avatar: ''
 social: []
 featured: false
-draft: true
 
 ---
